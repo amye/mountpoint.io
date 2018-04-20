@@ -1,6 +1,6 @@
-<img src="images/logo.svg">
+<link rel="stylesheet" href="style.css">
 
-# Mountpoint
+<img src="images/logo.svg" id="logo" alt="Mountpoint" />
 
 ## ABOUT
 Software-defined Storage (SDS) is changing the traditional way we think of storage. Decoupling software from hardware allows you to choose your hardware vendors and provides enterprises with more flexibility. 
