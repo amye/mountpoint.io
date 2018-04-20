@@ -1,3 +1,5 @@
+<img src="/images/logo.svg">
+
 # Mountpoint
 
 ## ABOUT
