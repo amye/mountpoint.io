@@ -1,4 +1,4 @@
-<img src="/images/logo.svg">
+<img src="images/logo.svg">
 
 # Mountpoint
 
