@@ -1,7 +1,14 @@
+body {
+  background: linear-gradient(180deg, rgba(124, 214, 245, 1), rgba(225, 242, 247, 1) 70.71%)
+}
+
 
 .page-header {
   /* I know. */
   display: none;
 }
 
+.main-content h1, .main-content h2, .main-content h3, .main-content h4 {
+  color: rgb(54, 88, 104);
+}
 
