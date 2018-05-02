@@ -33,5 +33,5 @@ Suggested topics include:
 - Data Compression and Storage Optimization
 
 ## SPONSORSHIP 
-[Our Sponsorship Prospectus}(/sponsor)
+[Our Sponsorship Prospectus](/sponsor)
 
