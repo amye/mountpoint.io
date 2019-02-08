@@ -17,5 +17,3 @@ Sponsorship table at which to showcase your solution and answer questions. Open 
 Your logo displayed at Monday night’s welcoming party. 
 
 *Please note that the sponsorship does not include speaking sessions. We are asking that all sessions go through the CFP system. 
-
-To sponsor this event, please contact [sponsor@mountpoint.io](mailto:sponsor@mountpoint.io)
